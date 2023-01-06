@@ -144,7 +144,7 @@ a:active, a:visited, a:link {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 62vh;
+  height: 80vh;
   display: block;
   padding: 50px 10% 150px 35%;
 }
@@ -180,7 +180,7 @@ a:active, a:visited, a:link {
 }
 .order {
   background-color: white;
-  height: 65vh;
+  height: 100vh;
   display: block;
   text-align: center;
   padding: 50px;
@@ -400,7 +400,7 @@ a:active, a:visited, a:link {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 120vh;
   padding: 50px 0;
   display: flex;
   flex-wrap: wrap;
@@ -479,7 +479,7 @@ a:active, a:visited, a:link {
 
 @media (max-width: 700px) {
   .book {
-    height: 30vh;
+    height: 63vh;
   }
 }
 footer {
@@ -492,7 +492,7 @@ footer {
 
 @media (max-width: 700px) {
   footer {
-    margin-top: 50px;
+    margin-top: 30px;
     height: 5vh;
   }
 }
